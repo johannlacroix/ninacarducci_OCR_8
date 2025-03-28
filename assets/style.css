@@ -102,7 +102,7 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #5E5926;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
@@ -192,7 +192,7 @@ body {
 
 #contact {
 	margin: auto;
-	background-color: #D8D3A8 ;
+	background-color: #5F592A ;
 	position: relative;
 	padding-inline: 100px;
 	padding-block: 100px;
@@ -203,7 +203,7 @@ body {
 }
 .picture.right::before {
 	content: ' ';
-	background-color: #BEB45A;
+	background-color: #5E5926;
 	width: 374px;
 	height: 329px;
 	position: absolute;
@@ -213,6 +213,7 @@ body {
 }
 .form-container {
 	flex : 2;
+	color:#fff
 
 }
 form {
@@ -240,7 +241,7 @@ form textarea {
 	margin-bottom: 20px;
 }
 input[type="submit"] {
-	background-color: #BEB45A;
+	background-color: #5E5926;
 	padding: .5em 1em
 }
 
@@ -390,7 +391,7 @@ input[type="submit"] {
   }
   
   .footer-nav a:hover {
-	color: #BEB45A;  /* Change la couleur au survol */
+	color: #5E5926;  /* Change la couleur au survol */
   }
   
   @media all and (max-width: 1000px) {
